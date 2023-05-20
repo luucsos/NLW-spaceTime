@@ -1,11 +1,5 @@
-<<<<<<< HEAD
-
 <p align="center">
   <img src=".github/preview.png" alt="Demonstração do projeto" width="100%" />
-=======
-<p align = "center">
-<img src=".github/preview.png" alt="Demonstração do projeto"  width= "100%" />
->>>>>>> 54dc4dce6da1ac3c294090efd3a271424b358e9f
 </p>
 
 ## 🖥️ Projeto
